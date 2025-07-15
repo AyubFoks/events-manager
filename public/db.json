@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Tech Conference",
+      "description": "Annual technology conference with top speakers",
+      "date": "2025-08-15",
+      "time": "09:00",
+      "location": "KICC",
+      "category": "Technology",
+      "image": "tech-conf.jpg",
+      "attendees": 120
+    },
+    {
+      "id": 2,
+      "title": "Kenya Music Festival",
+      "description": "Three days of live music performances by top schools",
+      "date": "2025-08-10",
+      "time": "14:00",
+      "location": "Bomas of Kenya",
+      "category": "Music",
+      "image": "music-fest.jpg",
+      "attendees": 500
+    },
+    {
+      "id": 3,
+      "title": "Art Exhibition",
+      "description": "Showcasing local artists and their works",
+      "date": "2025-08-20",
+      "time": "10:00",
+      "location": "National Museum",
+      "category": "Art",
+      "image": "art-exhibit.jpg",
+      "attendees": 200
+    },
+    {
+      "id": 4,
+      "title": "Food Festival",
+      "description": "Taste dishes from around the world",
+      "date": "2025-08-25",
+      "time": "11:00",
+      "location": "Uhuru Park",
+      "category": "Food",
+      "image": "food-fest.jpg",
+      "attendees": 300
+    }
+  ]
+}
