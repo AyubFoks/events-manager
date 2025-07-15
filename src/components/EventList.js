@@ -1,9 +1,4 @@
-import { useState, useEffect } from 'react';
-import { getEvents } from '../services/api';
-import EventForm from './components/EventForm';
-import EventFilter from './components/EventFilter';
-
-function List() {
+function EventList({ events, setEvents }) {
   return (
     <div className="event-list">
       <h2>Event List</h2>
@@ -12,4 +7,4 @@ function List() {
   );
 }
 
-export default List;
+export default EventList;

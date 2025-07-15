@@ -1,7 +1,4 @@
-import React from 'react';
-import EventList from './components/EventList';
-import EventForm from './components/EventForm';
-import EventFilter from './components/EventFilter';
+import EventItem from './EventItem';
 
 function EventItem({ event }) {
   return (
